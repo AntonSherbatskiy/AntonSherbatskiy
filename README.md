@@ -2,7 +2,7 @@
 
 ### I specialize in developing server applications using ASP.NET Core
 
-## 💡 I'm currently working on a project called FlatFlick that uses Firebase authentication and a message broker. The project allows users to post announcements about the sale, rent, and purchase of apartments and houses.
+### 💡 I'm currently working on a project called FlatFlick that uses Firebase authentication and a message broker. The project allows users to post announcements about the sale, rent, and purchase of apartments and houses.
 
 ### 🖥️ Programming Languages
 ![C#](https://img.shields.io/badge/C%23-090909?style=for-the-badge&logo=Dotnet)
