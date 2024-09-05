@@ -16,14 +16,13 @@
 ![Angular](https://img.shields.io/badge/Angular-090909?style=for-the-badge&logoColor=red&logo=Angular)
 ![Express](https://img.shields.io/badge/Express-090909?style=for-the-badge&logo=Express)
 
-### Cloud
+### :cloud: Cloud
 ![Azure](https://img.shields.io/badge/Azure-090909?style=for-the-badge&logo=Azure)
-![Azure](https://img.shields.io/badge/Firebase-090909?style=for-the-badge&logo=Firebase)
+![Firebase](https://img.shields.io/badge/Firebase-090909?style=for-the-badge&logo=Firebase)
 
 ### 🧩 Additional Tools
 ![Git](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=git&logoColor=F05032)
 ![Docker](https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=Docker)
-
 ![HTML](https://img.shields.io/badge/HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-090909?style=for-the-badge&logoColor=2196f3&logo=css3)
 ![NGINX](https://img.shields.io/badge/NGINX-090909?style=for-the-badge&logoColor=green&logo=nginx)
