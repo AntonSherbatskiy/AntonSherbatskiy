@@ -33,4 +33,4 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/ent0niyy)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/anton-sherbatskiy-1a2998266/)
-[![Personal Website](https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=Website)](https://portfolio-83d58.web.app/)
+[![Personal Website](https://img.shields.io/badge/Portfolio-090909?style=for-the-badge&logo=Website)](https://portfolio-83d58.web.app/)
